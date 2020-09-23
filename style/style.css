@@ -37,10 +37,6 @@ body {
   top: 20vh;
 }
 
-.one {
-  font-size: 36px;
-}
-
 .one > img {
   vertical-align: middle;
   margin-bottom: 10px;
