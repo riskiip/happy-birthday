@@ -5,6 +5,7 @@ html {
 body {
   margin: 0;
   font-family: "Work Sans", sans-serif;
+  background-color: #c0b7f5;
 }
 
 .container {
@@ -35,6 +36,10 @@ body {
   left: 0;
   right: 0;
   top: 20vh;
+}
+
+.one {
+  font-size: 4.5rem;
 }
 
 .one > img {
@@ -116,6 +121,14 @@ body {
   display: inline-block;
   max-width: 100%;
   height: auto;
+}
+
+.six .hat {
+  position: absolute;
+  width: 80px;
+  top: -35px;
+  left: 41.5%;
+  /* transform: scale(0.1); */
 }
 
 .baloons img {
